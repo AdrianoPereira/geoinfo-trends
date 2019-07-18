@@ -1,0 +1,12 @@
+name: geoinfo-trends
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.7.3   # or higher
+  - jupyter
+  - requests
+  - numpy
+  - pandas
+  - matplotlib
+  - wordcloud 
